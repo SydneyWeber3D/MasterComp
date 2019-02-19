@@ -1,0 +1,37 @@
+When starting a game, the computer will
+randomly generate 4 different colored
+chips.
+
+Your objective will be to guess the
+chips in the correct order in 12 tries
+or less.
+
+Chips colors are:
+A for Aqua
+B for Blue
+F for Fuschia
+R for Red
+Y for Yellow
+L for Lime
+
+The computer will compare your guesses
+to their solution and output pegs
+depending on how close you are.
+Pegs will deliberately not let you know
+exactly which chip is correct,
+just that your guess contains a correct
+chip.
+
+Pegs and their meaning:
+White if a chip is the right color but
+wrong location
+Red if a chip is the right color and
+location
+Pegs display sample:
+[2w 1r]
+
+NOTE: If you input more than 4
+characters the computer will only take
+the first 4, and if you input less than
+4 characters the computer will fill in
+the missing characters with X.
