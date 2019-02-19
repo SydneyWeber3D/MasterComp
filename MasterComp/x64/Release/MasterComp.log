@@ -1,0 +1,13 @@
+﻿  game.cpp
+s:\deniedmatter\documents\programing\cpp\mastercomp\mastercomp\game.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+s:\deniedmatter\documents\programing\cpp\mastercomp\mastercomp\game.cpp(62): warning C4129: '/': unrecognized character escape sequence
+s:\deniedmatter\documents\programing\cpp\mastercomp\mastercomp\game.cpp(70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+s:\deniedmatter\documents\programing\cpp\mastercomp\mastercomp\game.cpp(139): warning C4129: '[': unrecognized character escape sequence
+s:\deniedmatter\documents\programing\cpp\mastercomp\mastercomp\game.cpp(139): warning C4129: ']': unrecognized character escape sequence
+  main.cpp
+s:\deniedmatter\documents\programing\cpp\mastercomp\mastercomp\main.cpp(9): warning C4101: 'stop': unreferenced local variable
+  menu.cpp
+  Generating code
+  All 205 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MasterComp.vcxproj -> S:\DeniedMatter\Documents\Programing\CPP\MasterComp\x64\Release\MasterComp.exe
